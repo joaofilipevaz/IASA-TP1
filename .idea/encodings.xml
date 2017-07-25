@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/ambiente/AccaoAmb.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/ambiente/Ambiente.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/ambiente/EventoAmb.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/ComportHierarq.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/ComportMaqEst.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/Comportamento.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/Reaccao.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/comportamentosDePersonagem/Combater.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/comportamentosDePersonagem/ComportPersonagem.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/comportamentosDePersonagem/Defender.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/comportamentosDePersonagem/Inspecionar.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/comport/comportamentosDePersonagem/Patrulhar.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/jogo/Accao.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/jogo/Estimulo.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/jogo/jogo/Jogo.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/jogo/jogo/personagem/Personagem.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/maqest/Estado.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/maqest/MaquinaEstados.java" charset="UTF-16" />
+    <file url="PROJECT" charset="UTF-16" />
+  </component>
+</project>
